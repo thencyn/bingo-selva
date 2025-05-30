@@ -1,0 +1,1280 @@
+{
+	"textures": [
+		{
+			"image": "balotas_atlas.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 456,
+				"h": 760
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "balota-01",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-02",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 77,
+						"y": 1,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-03",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 153,
+						"y": 1,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-04",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 229,
+						"y": 1,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-05",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 305,
+						"y": 1,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-06",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 381,
+						"y": 1,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-07",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 1,
+						"y": 77,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-08",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 77,
+						"y": 77,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-09",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 153,
+						"y": 77,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-10",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 229,
+						"y": 77,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-11",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 305,
+						"y": 77,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-12",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 381,
+						"y": 77,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-13",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 1,
+						"y": 153,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-14",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 77,
+						"y": 153,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-15",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 153,
+						"y": 153,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-16",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 229,
+						"y": 153,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-17",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 305,
+						"y": 153,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-18",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 381,
+						"y": 153,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-19",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 1,
+						"y": 229,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-20",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 77,
+						"y": 229,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-21",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 153,
+						"y": 229,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-22",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 229,
+						"y": 229,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-23",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 305,
+						"y": 229,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-24",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 381,
+						"y": 229,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-25",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 1,
+						"y": 305,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-26",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 77,
+						"y": 305,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-27",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 153,
+						"y": 305,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-28",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 229,
+						"y": 305,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-29",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 305,
+						"y": 305,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-30",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 381,
+						"y": 305,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-31",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 1,
+						"y": 381,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-32",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 77,
+						"y": 381,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-33",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 153,
+						"y": 381,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-34",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 229,
+						"y": 381,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-35",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 305,
+						"y": 381,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-36",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 381,
+						"y": 381,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-37",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 1,
+						"y": 457,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-38",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 77,
+						"y": 457,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-39",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 153,
+						"y": 457,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-40",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 229,
+						"y": 457,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-41",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 305,
+						"y": 457,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-42",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 381,
+						"y": 457,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-43",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 1,
+						"y": 533,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-44",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 77,
+						"y": 533,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-45",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 153,
+						"y": 533,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-46",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 229,
+						"y": 533,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-47",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 305,
+						"y": 533,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-48",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 381,
+						"y": 533,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-49",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 1,
+						"y": 609,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-50",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 77,
+						"y": 609,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-51",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 153,
+						"y": 609,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-52",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 229,
+						"y": 609,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-53",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 305,
+						"y": 609,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-54",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 381,
+						"y": 609,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-55",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 1,
+						"y": 685,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-56",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 77,
+						"y": 685,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-57",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 153,
+						"y": 685,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-58",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 229,
+						"y": 685,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-59",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 305,
+						"y": 685,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "balota-60",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 381,
+						"y": 685,
+						"w": 74,
+						"h": 74
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9b508d66966e7964a8cdd248dfda66ab:4e671b01b35d9364e6e1fbcd1fb2e434:a22c93a6f21a68ccb58e967d8427e517$"
+	}
+}

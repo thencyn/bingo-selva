@@ -1,0 +1,50 @@
+{
+    "anims": [
+        {
+            "key": "anim-tombola",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "AtlasSpriteTombola",
+                    "frame": "tombola-01"
+                },
+                {
+                    "key": "AtlasSpriteTombola",
+                    "frame": "tombola-02"
+                },
+                {
+                    "key": "AtlasSpriteTombola",
+                    "frame": "tombola-03"
+                },
+                {
+                    "key": "AtlasSpriteTombola",
+                    "frame": "tombola-04"
+                },
+                {
+                    "key": "AtlasSpriteTombola",
+                    "frame": "tombola-05"
+                },
+                {
+                    "key": "AtlasSpriteTombola",
+                    "frame": "tombola-06"
+                },
+                {
+                    "key": "AtlasSpriteTombola",
+                    "frame": "tombola-07"
+                },
+                {
+                    "key": "AtlasSpriteTombola",
+                    "frame": "tombola-08"
+                },
+                {
+                    "key": "AtlasSpriteTombola",
+                    "frame": "tombola-09"
+                }
+            ]
+        }
+    ]
+}
+
+
