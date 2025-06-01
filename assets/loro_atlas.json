@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "loro.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 839,
+				"h": 421
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "loro-01",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 301,
+						"h": 301
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 49,
+						"w": 273,
+						"h": 223
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 273,
+						"h": 223
+					}
+				},
+				{
+					"filename": "loro-02",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 301,
+						"h": 301
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 66,
+						"w": 286,
+						"h": 189
+					},
+					"frame": {
+						"x": 276,
+						"y": 1,
+						"w": 286,
+						"h": 189
+					}
+				},
+				{
+					"filename": "loro-05",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 301,
+						"h": 301
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 74,
+						"w": 273,
+						"h": 173
+					},
+					"frame": {
+						"x": 1,
+						"y": 226,
+						"w": 273,
+						"h": 173
+					}
+				},
+				{
+					"filename": "loro-04",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 301,
+						"h": 301
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 90,
+						"w": 291,
+						"h": 141
+					},
+					"frame": {
+						"x": 276,
+						"y": 192,
+						"w": 291,
+						"h": 141
+					}
+				},
+				{
+					"filename": "loro-08",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 301,
+						"h": 301
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 83,
+						"w": 260,
+						"h": 154
+					},
+					"frame": {
+						"x": 564,
+						"y": 1,
+						"w": 260,
+						"h": 154
+					}
+				},
+				{
+					"filename": "loro-06",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 301,
+						"h": 301
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 88,
+						"w": 261,
+						"h": 144
+					},
+					"frame": {
+						"x": 569,
+						"y": 157,
+						"w": 261,
+						"h": 144
+					}
+				},
+				{
+					"filename": "loro-03",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 301,
+						"h": 301
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 118,
+						"w": 300,
+						"h": 85
+					},
+					"frame": {
+						"x": 276,
+						"y": 335,
+						"w": 300,
+						"h": 85
+					}
+				},
+				{
+					"filename": "loro-07",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 301,
+						"h": 301
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 102,
+						"w": 260,
+						"h": 117
+					},
+					"frame": {
+						"x": 578,
+						"y": 303,
+						"w": 260,
+						"h": 117
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:bb9b71e80e7c013f616d6210b59ce53d:f6cc228d055e174f66f649942290c4c4:92193f87c549f76494b83715b24c9ecc$"
+	}
+}

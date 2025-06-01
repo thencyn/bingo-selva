@@ -1,0 +1,70 @@
+{
+    "anims": [
+        {
+            "key": "anim-pajaro",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "AtlasPajaro",
+                    "frame": "pajaro-01"
+                },
+                {
+                    "key": "AtlasPajaro",
+                    "frame": "pajaro-02"
+                },
+                {
+                    "key": "AtlasPajaro",
+                    "frame": "pajaro-03"
+                },
+                {
+                    "key": "AtlasPajaro",
+                    "frame": "pajaro-03"
+                },
+                {
+                    "key": "AtlasPajaro",
+                    "frame": "pajaro-03"
+                },
+                {
+                    "key": "AtlasPajaro",
+                    "frame": "pajaro-04"
+                },
+                {
+                    "key": "AtlasPajaro",
+                    "frame": "pajaro-05"
+                },
+                {
+                    "key": "AtlasPajaro",
+                    "frame": "pajaro-06"
+                },
+                {
+                    "key": "AtlasPajaro",
+                    "frame": "pajaro-06"
+                },
+                {
+                    "key": "AtlasPajaro",
+                    "frame": "pajaro-06"
+                },
+                {
+                    "key": "AtlasPajaro",
+                    "frame": "pajaro-07"
+                },
+                {
+                    "key": "AtlasPajaro",
+                    "frame": "pajaro-07"
+                },
+                {
+                    "key": "AtlasPajaro",
+                    "frame": "pajaro-08"
+                },
+                {
+                    "key": "AtlasPajaro",
+                    "frame": "pajaro-08"
+                }
+            ]
+        }
+    ]
+}
+
+

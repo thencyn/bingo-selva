@@ -1,0 +1,50 @@
+{
+    "anims": [
+        {
+            "key": "anim-loro-amarillo",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "AtlasLoroAmarillo",
+                    "frame": "loro-01"
+                },
+                {
+                    "key": "AtlasLoroAmarillo",
+                    "frame": "loro-02"
+                },
+                {
+                    "key": "AtlasLoroAmarillo",
+                    "frame": "loro-03"
+                },
+                {
+                    "key": "AtlasLoroAmarillo",
+                    "frame": "loro-04"
+                },
+                {
+                    "key": "AtlasLoroAmarillo",
+                    "frame": "loro-05"
+                },
+                {
+                    "key": "AtlasLoroAmarillo",
+                    "frame": "loro-06"
+                },
+                {
+                    "key": "AtlasLoroAmarillo",
+                    "frame": "loro-07"
+                },
+                {
+                    "key": "AtlasLoroAmarillo",
+                    "frame": "loro-08"
+                },
+                {
+                    "key": "AtlasLoroAmarillo",
+                    "frame": "loro-08"
+                }
+            ]
+        }
+    ]
+}
+
+

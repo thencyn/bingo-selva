@@ -1,0 +1,50 @@
+{
+    "anims": [
+        {
+            "key": "anim-loro-rojo",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "AtlasLoro",
+                    "frame": "loro-01"
+                },
+                {
+                    "key": "AtlasLoro",
+                    "frame": "loro-02"
+                },
+                {
+                    "key": "AtlasLoro",
+                    "frame": "loro-03"
+                },
+                {
+                    "key": "AtlasLoro",
+                    "frame": "loro-04"
+                },
+                {
+                    "key": "AtlasLoro",
+                    "frame": "loro-05"
+                },
+                {
+                    "key": "AtlasLoro",
+                    "frame": "loro-06"
+                },
+                {
+                    "key": "AtlasLoro",
+                    "frame": "loro-07"
+                },
+                {
+                    "key": "AtlasLoro",
+                    "frame": "loro-08"
+                },
+                {
+                    "key": "AtlasLoro",
+                    "frame": "loro-08"
+                }
+            ]
+        }
+    ]
+}
+
+

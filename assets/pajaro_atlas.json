@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "pajaro.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 908,
+				"h": 479
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pajaro-08",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 301,
+						"h": 301
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 47,
+						"w": 301,
+						"h": 212
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 301,
+						"h": 212
+					}
+				},
+				{
+					"filename": "pajaro-03",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 301,
+						"h": 301
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 301,
+						"h": 197
+					},
+					"frame": {
+						"x": 1,
+						"y": 215,
+						"w": 301,
+						"h": 197
+					}
+				},
+				{
+					"filename": "pajaro-02",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 301,
+						"h": 301
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 19,
+						"w": 296,
+						"h": 191
+					},
+					"frame": {
+						"x": 304,
+						"y": 1,
+						"w": 296,
+						"h": 191
+					}
+				},
+				{
+					"filename": "pajaro-01",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 301,
+						"h": 301
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 32,
+						"w": 300,
+						"h": 175
+					},
+					"frame": {
+						"x": 602,
+						"y": 1,
+						"w": 300,
+						"h": 175
+					}
+				},
+				{
+					"filename": "pajaro-07",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 301,
+						"h": 301
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 72,
+						"w": 301,
+						"h": 163
+					},
+					"frame": {
+						"x": 602,
+						"y": 178,
+						"w": 301,
+						"h": 163
+					}
+				},
+				{
+					"filename": "pajaro-06",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 301,
+						"h": 301
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 80,
+						"w": 296,
+						"h": 131
+					},
+					"frame": {
+						"x": 304,
+						"y": 194,
+						"w": 296,
+						"h": 131
+					}
+				},
+				{
+					"filename": "pajaro-05",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 301,
+						"h": 301
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 94,
+						"w": 301,
+						"h": 135
+					},
+					"frame": {
+						"x": 304,
+						"y": 343,
+						"w": 301,
+						"h": 135
+					}
+				},
+				{
+					"filename": "pajaro-04",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 301,
+						"h": 301
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 92,
+						"w": 300,
+						"h": 122
+					},
+					"frame": {
+						"x": 607,
+						"y": 343,
+						"w": 300,
+						"h": 122
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:256728c8210cd20ac81e454b7bf2d522:b8a702cd8815446a64240a098514782f:729dd7ae71b36d54d00a68172aee3cf4$"
+	}
+}
